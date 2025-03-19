@@ -9,4 +9,3 @@ Um pouco sobre mim:
 📧 davisilvaempree@gmail.com
 📷 @davissilva_s
 📞 (75) 98188-9033
-print("Hello World!")
